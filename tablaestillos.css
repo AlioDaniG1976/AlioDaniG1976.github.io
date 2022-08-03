@@ -1,0 +1,11 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+table{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 2px darkorchid dotted;
+    font-size: 35px;
+    text-align: center;
+}
